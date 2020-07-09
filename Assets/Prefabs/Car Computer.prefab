@@ -5951,7 +5951,7 @@ GameObject:
   - component: {fileID: 541977918693278454}
   m_Layer: 0
   m_Name: Car Computer
-  m_TagString: Car
+  m_TagString: CarComputer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

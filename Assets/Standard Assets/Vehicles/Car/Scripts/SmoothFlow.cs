@@ -6,7 +6,7 @@ public class SmoothFlow : MonoBehaviour
 {
     private Transform target;
     private float height = 3;
-    private float distance = -7;
+    private float distance = -6;
     private float smoothSpeed = 1;
     // Start is called before the first frame update
     void Start()

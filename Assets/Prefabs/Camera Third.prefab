@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 8222484465024452859}
   - component: {fileID: 8222484465024452853}
   m_Layer: 0
-  m_Name: Third Camera
+  m_Name: Camera Third
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
