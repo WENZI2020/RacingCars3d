@@ -19,10 +19,6 @@ public class StartMenu : MonoBehaviour
         panelA.SetActive(true);
         panelB.SetActive(false);
     }
-    void Update()
-    {
-
-    }
     public void PanelA()
     {
         panelA.SetActive(true);

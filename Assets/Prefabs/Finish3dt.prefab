@@ -80,7 +80,7 @@ TextMesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1714536723381925032}
-  m_Text: FINISH
+  m_Text: '||||||||||||||||'
   m_OffsetZ: 20
   m_CharacterSize: 4
   m_LineSpacing: 1

@@ -53,7 +53,7 @@ public class GameControls : MonoBehaviour
             if (!isOver)
             {
                 startLabel.text = string.Empty;
-                timeLabel.text = "（"+(System.Math.Round(time,1) - 3).ToString()+"）";
+                timeLabel.text = "（"+(System.Math.Round(time,1) - 3).ToString()+"）时间";
             }
             else
             {
@@ -64,17 +64,17 @@ public class GameControls : MonoBehaviour
                     if (time < best)
                     {
                         PlayerPrefs.SetFloat("bestTime", Mathf.RoundToInt(time));
-                        bestLabel.text = "Best!";
+                        bestLabel.text = "记录 Best!";
                     }
                     else
                     {
-                        bestLabel.text = "（"+best.ToString()+".0）";
+                        bestLabel.text = "记录（"+best.ToString()+".X）";
                     }
                 }
                 else
                 {
                     PlayerPrefs.SetFloat("bestTime", Mathf.RoundToInt(time));
-                    bestLabel.text = "Best!";
+                    bestLabel.text = "记录 Best!";
                 }
                 isGameCompleted = true;
             }

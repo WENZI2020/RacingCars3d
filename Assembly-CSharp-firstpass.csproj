@@ -101,8 +101,14 @@
  <Reference Include="Unity.Messenger.Editor">
  <HintPath>C:/Desktop/New Unity Project/Library/ScriptAssemblies/Unity.Messenger.Editor.dll</HintPath>
  </Reference>
+ <Reference Include="Editor">
+ <HintPath>C:/Desktop/New Unity Project/Library/ScriptAssemblies/Editor.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.InternalAPIEditorBridge.023">
  <HintPath>C:/Desktop/New Unity Project/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.023.dll</HintPath>
+ </Reference>
+ <Reference Include="XiaomiSupport">
+ <HintPath>C:/Desktop/New Unity Project/Library/ScriptAssemblies/XiaomiSupport.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
  <HintPath>C:/Desktop/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
@@ -112,12 +118,6 @@
  </Reference>
  <Reference Include="Unity.InternalAPIEngineBridge.024">
  <HintPath>C:/Desktop/New Unity Project/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.024.dll</HintPath>
- </Reference>
- <Reference Include="Editor">
- <HintPath>C:/Desktop/New Unity Project/Library/ScriptAssemblies/Editor.dll</HintPath>
- </Reference>
- <Reference Include="XiaomiSupport">
- <HintPath>C:/Desktop/New Unity Project/Library/ScriptAssemblies/XiaomiSupport.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
