@@ -1,5 +1,6 @@
 # RacingCars3d
 
+[![Fork me on Gitee](https://gitee.com/WENZI2020/RacingCars3d/widgets/widget_3.svg)](https://gitee.com/WENZI2020/RacingCars3d)<br/>
 赛车3dUnity游戏 ![](https://img.shields.io/badge/曾昭文-培训项目-red.svg)<br/>
 
 #### 集成环境
